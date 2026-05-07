@@ -12,4 +12,4 @@
 
 GitHub Pages를 켠 뒤 아래 주소에서 볼 수 있습니다.
 
-https://jeonhoon528.github.io/jeonhoon_sound_portfolio/
+https://jeonhoon528.github.io/portfolio/
